@@ -108,7 +108,7 @@ Pain Points: Reorder hidden, app slow on low-end phone
 Motivation: Convenience + affordability
 
 
-##OUTPUT
+##output
 ![WhatsApp Image 2025-11-17 at 08 27 34_5d809382](https://github.com/user-attachments/assets/fb5bf956-9a97-4add-9abd-4fd2bd0d20a8)
 
 ##RESULT
