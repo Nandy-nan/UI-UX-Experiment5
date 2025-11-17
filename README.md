@@ -1,133 +1,115 @@
 # UI-UX-Experiment5
 
-## Aim:
-To analyze user needs and create UX solutions by identifying problem statements, selecting appropriate research methods, and developing user personas for real-world digital product scenarios.
 
-## Algorithm:
-1.Select the UX project scenario.
+##AIM
 
-2.Identify user pain points.
+To study user pain points in existing applications and propose UI/UX enhancements through problem statements, research method selection, and creation of user personas.
 
-3.Write clear problem statements.
 
-4.Choose suitable user research methods.
+---
 
-5.Create user personas based on findings.
+##ALGORITHM
 
-## Output:
-cenario 1: Designing a Mobile Health & Fitness Tracking App
-1. Identifying and Writing Problem Statements
+1. Select an existing real-world product (app/website).
 
-User Pain Points
 
-Users have trouble staying consistent with workouts.
+2. Observe the current UI and identify usability issues.
 
-They lack motivation and accountability.
 
-Existing apps are complex or overloaded with features.
+3. List user pain points based on usability heuristics.
 
-Users want personalized routines but don’t know where to start.
 
-Problem Statements (Template)
+4. Write UX problem statements using the defined template.
 
-Busy working professionals need a way to maintain a consistent fitness routine because they lack time to plan and track exercises, which results in reduced motivation and poor fitness outcomes.
 
-New fitness learners need a way to receive personalized workout guidance because generic fitness apps do not match their skill level, which results in confusion and early dropout.
+5. Choose appropriate research methods and justify them.
 
-2. Identifying Appropriate Research Methods
-Research Method	Why it is Suitable
-User Interviews	Helps understand personal motivations, barriers, and daily routines.
-Surveys	Can quickly gather data about workout habits from a larger group.
-Usability Testing	To test prototype flow for simplicity and clarity.
 
-Justification:
-Since fitness behavior is emotional and habit-based, interviews help capture personal motivations. Surveys validate common patterns. Usability tests ensure the app does not feel complicated.
+6. Create at least two personas representing different user groups.
 
-3. Personas
-Persona 1: “Riya Sharma” — Busy Professional
 
-Age: 28
+7. Propose UI enhancements addressing the identified issues.
 
-Occupation: Software Engineer
 
-Goals: Stay fit without long gym sessions; track progress.
 
-Behaviors: Works long hours; prefers short home workouts; uses phone often.
 
-Pain Points: Limited time, low motivation, finds fitness apps confusing.
+---
+## UX PROJECT SCENARIO 1:
 
-Motivation: Wants to be healthy while managing work-life balance.
+Food Delivery App (Swiggy-style) – Improving Home & Tracking Screens
 
-Persona 2: “Arjun Verma” — Fitness Beginner
+1. USER PAIN POINTS
 
-Age: 20
+Home screen is cluttered with many banners.
 
-Occupation: College Student
+Quick reorder option is hidden.
 
-Goals: Build strength and confidence; follow beginner-friendly routines.
+Order tracking lacks clear real-time movement.
 
-Behaviors: Tries workouts from YouTube; inconsistent routine; seeks guidance.
+Support option is hard to find during an active order.
 
-Pain Points: Doesn’t know which routine is right; gets discouraged easily.
 
-Motivation: Wants visible progress and a fitness identity.
+##2. PROBLEM STATEMENTS
 
-✅ Scenario 2: Redesigning an E-commerce Checkout System
-1. Identifying and Writing Problem Statements
+Problem Statement 1
 
-User Pain Points
+> Busy users need a way to track their delivery accurately in real time because the current tracking updates are slow or unclear, which results in frustration and lack of trust in the service.
 
-Long checkout forms.
 
-Hidden delivery charges appear late.
 
-Payment failures cause frustration.
+Problem Statement 2
 
-No option to save preferred payment methods.
+> Returning customers need a way to reorder meals quickly because the reorder feature is buried inside multiple menus, which results in increased time taken to place orders and drop-offs.
 
-Problem Statements (Template)
 
-Online shoppers need a way to complete checkout quickly because long forms and multiple steps slow them down, which results in cart abandonment.
 
-Frequent users need a way to save their payment and delivery information because re-entering data is time-consuming, which results in reduced satisfaction and loyalty.
 
-2. Identifying Appropriate Research Methods
-Research Method	Why it is Suitable
-Usability Testing	To observe where checkout confusion happens.
-Analytics Review	Reveals where most drop-offs occur in the checkout flow.
-A/B Testing	Helps evaluate new checkout designs against the existing one.
+---
+
+##3. APPROPRIATE RESEARCH METHODS
+
+Method	Why It's Suitable
+
+Usability Testing	Helps observe where users hesitate while navigating home screen & tracking.
+Short In-App Survey	Collects feedback after delivery to measure satisfaction with tracking.
+
 
 Justification:
-Checkout problems are interaction-level issues, so usability testing is essential. Analytics provides data on exact pain points, and A/B testing confirms which improvements work best.
+Usability testing reveals real interaction pain points, while surveys give quantitative feedback on tracking accuracy and ease of reordering.
 
-3. Personas
-Persona 1: “Sneha Nair” — Smart Shopper
 
-Age: 32
+---
 
-Occupation: Accountant
+##4. PERSONAS
 
-Goals: Quick, reliable purchase experience.
+Persona 1 – Riya Sharma
 
-Behaviors: Reads product reviews; shops mostly during sales.
+Demographics: 25, Marketing Executive, Bangalore
 
-Pain Points: Hates hidden delivery charges; slow checkout leads to drop-off.
+Goals: Order lunch quickly, track delivery precisely
 
-Motivation: Save time and money.
+Behaviors: Orders 3–4 times/week, uses app during office hours
 
-Persona 2: “Rahul Mehta” — Frequent Shopper
+Pain Points: Inaccurate ETA, cluttered UI
 
-Age: 26
+Motivation: Reliability + time saving
 
-Occupation: Marketing Associate
 
-Goals: Seamless repeat purchases.
+Persona 2 – Arjun Mehta
 
-Behaviors: Buys online 2–3 times/week; uses wallets and UPI.
+Demographics: 20, College Student, Chennai
 
-Pain Points: Re-entering shipping and card details is frustrating.
+Goals: Reorder food instantly, find affordable options
 
-Motivation: Convenience and speed.
+Behaviors: Orders late-night snacks
 
-## Result:
-The UX problems, research approaches, and user personas were successfully identified and documented for both project scenarios.
+Pain Points: Reorder hidden, app slow on low-end phone
+
+Motivation: Convenience + affordability
+
+
+##OUTPUT
+![WhatsApp Image 2025-11-17 at 08 27 34_5d809382](https://github.com/user-attachments/assets/fb5bf956-9a97-4add-9abd-4fd2bd0d20a8)
+
+##RESULT
+A simplified UI improves clarity and usablity
